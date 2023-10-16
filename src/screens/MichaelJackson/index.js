@@ -1,0 +1,1 @@
+export { MichaelJackson } from "./MichaelJackson";
